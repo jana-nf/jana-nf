@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 0/
 
-![jana](https://github.com/user-attachments/assets/9f70bb69-4a5a-4b70-b102-20a07d2088b9)
+![jana-nf](https://github.com/user-attachments/assets/9f70bb69-4a5a-4b70-b102-20a07d2088b9)
 
 - 🌱 I’m currently learning database, machine learning e AI
 - 🤔 I’m looking for help with develop an AI translates texts from Portuguese/English or English/Portuguese

@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning database, machine learning e AI
 - 🤔 I’m looking for help with develop an AI translates texts from Portuguese/English or English/Portuguese
 - 💬 Ask me about database, algorithm, machine learning e AI
-- Back-end
-- Backend
+- Back-end and Backend
 - 📫 How to reach me: https://github.com/jana-nf
 - ⚡ Fun fact: I love reading...
--->
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
